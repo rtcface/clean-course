@@ -1,3 +1,6 @@
+import localPost from "../data/local-database.json"
+import { Post } from './05-dependency-a'
+
 
 
 export class LocalDataBaseService {
